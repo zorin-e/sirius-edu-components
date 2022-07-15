@@ -1,0 +1,9 @@
+{
+    "main": "./Island.cjs.js",
+    "module": "./Island.esm.js",
+    "unpkg": "./Island.min.js",
+    "types": "./Island.d.ts",
+    "browser": {
+      "./sfc": "./Island.vue"
+    }
+  }

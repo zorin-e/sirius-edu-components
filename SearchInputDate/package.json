@@ -1,0 +1,9 @@
+{
+    "main": "./SearchInputDate.cjs.js",
+    "module": "./SearchInputDate.esm.js",
+    "unpkg": "./SearchInputDate.min.js",
+    "types": "./SearchInputDate.d.ts",
+    "browser": {
+      "./sfc": "./SearchInputDate.vue"
+    }
+  }

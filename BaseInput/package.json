@@ -1,0 +1,9 @@
+{
+    "main": "./BaseInput.cjs.js",
+    "module": "./BaseInput.esm.js",
+    "unpkg": "./BaseInput.min.js",
+    "types": "./BaseInput.d.ts",
+    "browser": {
+      "./sfc": "./BaseInput.vue"
+    }
+  }

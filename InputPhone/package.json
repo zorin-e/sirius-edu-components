@@ -1,0 +1,9 @@
+{
+    "main": "./InputPhone.cjs.js",
+    "module": "./InputPhone.esm.js",
+    "unpkg": "./InputPhone.min.js",
+    "types": "./InputPhone.d.ts",
+    "browser": {
+      "./sfc": "./InputPhone.vue"
+    }
+  }

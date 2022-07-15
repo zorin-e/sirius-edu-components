@@ -1,0 +1,9 @@
+{
+    "main": "./DataList.cjs.js",
+    "module": "./DataList.esm.js",
+    "unpkg": "./DataList.min.js",
+    "types": "./DataList.d.ts",
+    "browser": {
+      "./sfc": "./DataList.vue"
+    }
+  }

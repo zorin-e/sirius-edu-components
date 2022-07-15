@@ -1,0 +1,9 @@
+{
+    "main": "./PasswordInput.cjs.js",
+    "module": "./PasswordInput.esm.js",
+    "unpkg": "./PasswordInput.min.js",
+    "types": "./PasswordInput.d.ts",
+    "browser": {
+      "./sfc": "./PasswordInput.vue"
+    }
+  }

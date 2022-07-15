@@ -1,0 +1,9 @@
+{
+    "main": "./FieldError.cjs.js",
+    "module": "./FieldError.esm.js",
+    "unpkg": "./FieldError.min.js",
+    "types": "./FieldError.d.ts",
+    "browser": {
+      "./sfc": "./FieldError.vue"
+    }
+  }

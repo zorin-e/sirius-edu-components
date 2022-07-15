@@ -1,0 +1,9 @@
+{
+    "main": "./DropdownHost.cjs.js",
+    "module": "./DropdownHost.esm.js",
+    "unpkg": "./DropdownHost.min.js",
+    "types": "./DropdownHost.d.ts",
+    "browser": {
+      "./sfc": "./DropdownHost.vue"
+    }
+  }

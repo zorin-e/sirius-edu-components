@@ -1,0 +1,9 @@
+{
+    "main": "./BaseButton.cjs.js",
+    "module": "./BaseButton.esm.js",
+    "unpkg": "./BaseButton.min.js",
+    "types": "./BaseButton.d.ts",
+    "browser": {
+      "./sfc": "./BaseButton.vue"
+    }
+  }

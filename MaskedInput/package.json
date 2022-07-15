@@ -1,0 +1,9 @@
+{
+    "main": "./MaskedInput.cjs.js",
+    "module": "./MaskedInput.esm.js",
+    "unpkg": "./MaskedInput.min.js",
+    "types": "./MaskedInput.d.ts",
+    "browser": {
+      "./sfc": "./MaskedInput.vue"
+    }
+  }

@@ -1,0 +1,9 @@
+{
+    "main": "./BaseSelect.cjs.js",
+    "module": "./BaseSelect.esm.js",
+    "unpkg": "./BaseSelect.min.js",
+    "types": "./BaseSelect.d.ts",
+    "browser": {
+      "./sfc": "./BaseSelect.vue"
+    }
+  }

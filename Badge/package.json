@@ -1,0 +1,9 @@
+{
+    "main": "./Badge.cjs.js",
+    "module": "./Badge.esm.js",
+    "unpkg": "./Badge.min.js",
+    "types": "./Badge.d.ts",
+    "browser": {
+      "./sfc": "./Badge.vue"
+    }
+  }

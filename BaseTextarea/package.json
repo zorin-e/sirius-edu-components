@@ -1,0 +1,9 @@
+{
+    "main": "./BaseTextarea.cjs.js",
+    "module": "./BaseTextarea.esm.js",
+    "unpkg": "./BaseTextarea.min.js",
+    "types": "./BaseTextarea.d.ts",
+    "browser": {
+      "./sfc": "./BaseTextarea.vue"
+    }
+  }

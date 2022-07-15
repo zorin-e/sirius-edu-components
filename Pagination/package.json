@@ -1,0 +1,9 @@
+{
+    "main": "./Pagination.cjs.js",
+    "module": "./Pagination.esm.js",
+    "unpkg": "./Pagination.min.js",
+    "types": "./Pagination.d.ts",
+    "browser": {
+      "./sfc": "./Pagination.vue"
+    }
+  }

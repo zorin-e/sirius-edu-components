@@ -1,0 +1,9 @@
+{
+    "main": "./Tabs.cjs.js",
+    "module": "./Tabs.esm.js",
+    "unpkg": "./Tabs.min.js",
+    "types": "./Tabs.d.ts",
+    "browser": {
+      "./sfc": "./Tabs.vue"
+    }
+  }

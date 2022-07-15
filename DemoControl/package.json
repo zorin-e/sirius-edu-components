@@ -1,0 +1,9 @@
+{
+    "main": "./DemoControl.cjs.js",
+    "module": "./DemoControl.esm.js",
+    "unpkg": "./DemoControl.min.js",
+    "types": "./DemoControl.d.ts",
+    "browser": {
+      "./sfc": "./DemoControl.vue"
+    }
+  }

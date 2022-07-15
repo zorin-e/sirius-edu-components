@@ -1,0 +1,9 @@
+{
+    "main": "./SearchInput.cjs.js",
+    "module": "./SearchInput.esm.js",
+    "unpkg": "./SearchInput.min.js",
+    "types": "./SearchInput.d.ts",
+    "browser": {
+      "./sfc": "./SearchInput.vue"
+    }
+  }

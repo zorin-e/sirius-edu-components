@@ -1,0 +1,9 @@
+{
+    "main": "./TableBar.cjs.js",
+    "module": "./TableBar.esm.js",
+    "unpkg": "./TableBar.min.js",
+    "types": "./TableBar.d.ts",
+    "browser": {
+      "./sfc": "./TableBar.vue"
+    }
+  }

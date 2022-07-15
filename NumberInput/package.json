@@ -1,0 +1,9 @@
+{
+    "main": "./NumberInput.cjs.js",
+    "module": "./NumberInput.esm.js",
+    "unpkg": "./NumberInput.min.js",
+    "types": "./NumberInput.d.ts",
+    "browser": {
+      "./sfc": "./NumberInput.vue"
+    }
+  }

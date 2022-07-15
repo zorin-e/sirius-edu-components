@@ -1,0 +1,9 @@
+{
+    "main": "./Expand.cjs.js",
+    "module": "./Expand.esm.js",
+    "unpkg": "./Expand.min.js",
+    "types": "./Expand.d.ts",
+    "browser": {
+      "./sfc": "./Expand.vue"
+    }
+  }

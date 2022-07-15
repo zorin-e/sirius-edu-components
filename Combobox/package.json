@@ -1,0 +1,9 @@
+{
+    "main": "./Combobox.cjs.js",
+    "module": "./Combobox.esm.js",
+    "unpkg": "./Combobox.min.js",
+    "types": "./Combobox.d.ts",
+    "browser": {
+      "./sfc": "./Combobox.vue"
+    }
+  }

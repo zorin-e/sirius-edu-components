@@ -1,0 +1,9 @@
+{
+    "main": "./BackButton.cjs.js",
+    "module": "./BackButton.esm.js",
+    "unpkg": "./BackButton.min.js",
+    "types": "./BackButton.d.ts",
+    "browser": {
+      "./sfc": "./BackButton.vue"
+    }
+  }

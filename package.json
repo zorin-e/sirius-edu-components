@@ -1,0 +1,21 @@
+{
+    "name": "@smartmed/webpatient-vue-components",
+    "version": "2.11.0",
+    "repository": {
+        "type": "git",
+        "url": "git@gitlab.medsigroup.ru:smartmed/webpatient-vue-components.git"
+    },
+    "publishConfig": {
+        "@smartmed:registry": "https://gitlab.medsi.pro/api/v4/projects/14/packages/npm/"
+    },
+    "peerDependencies": {
+        "vue": "^3.2.0",
+        "@vuepic/vue-datepicker": "3.2.2",
+        "@vuelidate/core": "^2.0.0-alpha.34",
+        "@vuelidate/validators": "^2.0.0-alpha.26",
+        "css-reset-and-normalize": "2.3.6",
+        "lodash.throttle": "^4.1.1",
+        "text-mask-addons": "^3.8.0",
+        "text-mask-core": "^5.0.0"
+    }
+}

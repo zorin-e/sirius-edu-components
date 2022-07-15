@@ -1,0 +1,9 @@
+{
+    "main": "./Spinner.cjs.js",
+    "module": "./Spinner.esm.js",
+    "unpkg": "./Spinner.min.js",
+    "types": "./Spinner.d.ts",
+    "browser": {
+      "./sfc": "./Spinner.vue"
+    }
+  }

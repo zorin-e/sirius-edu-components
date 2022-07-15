@@ -1,0 +1,9 @@
+{
+    "main": "./DemoBlock.cjs.js",
+    "module": "./DemoBlock.esm.js",
+    "unpkg": "./DemoBlock.min.js",
+    "types": "./DemoBlock.d.ts",
+    "browser": {
+      "./sfc": "./DemoBlock.vue"
+    }
+  }

@@ -1,0 +1,9 @@
+{
+    "main": "./Tag.cjs.js",
+    "module": "./Tag.esm.js",
+    "unpkg": "./Tag.min.js",
+    "types": "./Tag.d.ts",
+    "browser": {
+      "./sfc": "./Tag.vue"
+    }
+  }

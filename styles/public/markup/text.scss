@@ -1,0 +1,53 @@
+.smed-text {
+    &_h1 {
+        @include smed-text_h1();
+    }
+
+    &_h2 {
+        @include smed-text_h2();
+    }
+
+    &_h3 {
+        @include smed-text_h3();
+    }
+
+    &_h4 {
+        @include smed-text_h4();
+    }
+
+    &_h5 {
+        @include smed-text_h5();
+    }
+
+    &_body-xl {
+        @include smed-text_body-xl();
+    }
+
+    &_body-md {
+        @include smed-text_body-md();
+    }
+
+    &_body-sm {
+        @include smed-text_body-sm();
+    }
+
+    &_body-xs {
+        @include smed-text_body-xs();
+    }
+
+    &_bold {
+        @include smed-text_bold();
+    }
+
+    &_uppercase {
+        @include smed-text_uppercase();
+
+        &.smed-text_body-xs, &.smed-text_body-sm {
+            @include smed-text_medium();
+        }
+    }
+
+    &_medium {
+        @include smed-text_medium();
+    }
+}

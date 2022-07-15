@@ -1,0 +1,9 @@
+{
+    "main": "./EventTunnel.cjs.js",
+    "module": "./EventTunnel.esm.js",
+    "unpkg": "./EventTunnel.min.js",
+    "types": "./EventTunnel.d.ts",
+    "browser": {
+      "./sfc": "./EventTunnel.vue"
+    }
+  }

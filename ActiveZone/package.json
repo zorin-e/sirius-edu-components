@@ -1,0 +1,9 @@
+{
+    "main": "./ActiveZone.cjs.js",
+    "module": "./ActiveZone.esm.js",
+    "unpkg": "./ActiveZone.min.js",
+    "types": "./ActiveZone.d.ts",
+    "browser": {
+      "./sfc": "./ActiveZone.vue"
+    }
+  }

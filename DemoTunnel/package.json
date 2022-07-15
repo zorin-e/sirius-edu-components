@@ -1,0 +1,9 @@
+{
+    "main": "./DemoTunnel.cjs.js",
+    "module": "./DemoTunnel.esm.js",
+    "unpkg": "./DemoTunnel.min.js",
+    "types": "./DemoTunnel.d.ts",
+    "browser": {
+      "./sfc": "./DemoTunnel.vue"
+    }
+  }

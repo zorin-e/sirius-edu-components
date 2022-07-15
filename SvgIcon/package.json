@@ -1,0 +1,9 @@
+{
+    "main": "./SvgIcon.cjs.js",
+    "module": "./SvgIcon.esm.js",
+    "unpkg": "./SvgIcon.min.js",
+    "types": "./SvgIcon.d.ts",
+    "browser": {
+      "./sfc": "./SvgIcon.vue"
+    }
+  }

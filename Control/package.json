@@ -1,0 +1,9 @@
+{
+    "main": "./Control.cjs.js",
+    "module": "./Control.esm.js",
+    "unpkg": "./Control.min.js",
+    "types": "./Control.d.ts",
+    "browser": {
+      "./sfc": "./Control.vue"
+    }
+  }

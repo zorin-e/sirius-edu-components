@@ -1,0 +1,9 @@
+{
+    "main": "./Portal.cjs.js",
+    "module": "./Portal.esm.js",
+    "unpkg": "./Portal.min.js",
+    "types": "./Portal.d.ts",
+    "browser": {
+      "./sfc": "./Portal.vue"
+    }
+  }

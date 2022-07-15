@@ -1,0 +1,9 @@
+{
+    "main": "./LineClamp.cjs.js",
+    "module": "./LineClamp.esm.js",
+    "unpkg": "./LineClamp.min.js",
+    "types": "./LineClamp.d.ts",
+    "browser": {
+      "./sfc": "./LineClamp.vue"
+    }
+  }

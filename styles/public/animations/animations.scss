@@ -1,0 +1,33 @@
+.fade-enter-active,
+.fade-leave-active {
+  @include transition(opacity, .4s, ease);
+}
+
+.fade-enter-from,
+.fade-leave-to {
+  opacity: 0;
+}
+
+.fade-height16-enter-active,
+.fade-height16-leave-active {
+  @include transition(all, .4s, ease);
+  max-height: 16px;
+}
+
+.fade-height16-enter-from,
+.fade-height16-leave-to {
+  opacity: 0;
+  max-height: 0;
+}
+
+.smed-table-bar-enter-active,
+.smed-table-bar-leave-active {
+  @include transition(transform);
+  
+  transform: translate(0);
+}
+
+.smed-table-bar-enter-from,
+.smed-table-bar-leave-to {
+  transform: translateY(100%);
+}
